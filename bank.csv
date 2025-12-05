@@ -1,4 +1,4 @@
-"";"age";"job";"marital";"education";"default";"balance";"housing";"loan";"contact";"day";"month";"duration";"campaign";"pdays";"previous";"poutcome";"y"
+"nb";"age";"job";"marital";"education";"default";"balance";"housing";"loan";"contact";"day";"month";"duration";"campaign";"pdays";"previous";"poutcome";"y"
 "37925";33;"admin.";"single";"secondary";"no";315;"yes";"yes";"cellular";14;"may";888;3;-1;0;"unknown";"yes"
 "5892";45;"blue-collar";"divorced";"secondary";"no";77;"yes";"no";"unknown";26;"may";99;3;-1;0;"unknown";"no"
 "35828";41;"technician";"divorced";"secondary";"no";106;"yes";"yes";"cellular";8;"may";197;2;-1;0;"unknown";"no"
